@@ -1,3 +1,10 @@
+"""
+    Use: python display_votes.py *csvFilePath*
+    With optional precinct param: python display_votes.py *csvFilePath* *precinct*
+    Example: python display_votes.py ny_data.csv 025/72 
+"""
+
+
 import sys
 import csv
 
